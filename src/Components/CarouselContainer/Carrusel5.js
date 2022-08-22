@@ -8,7 +8,7 @@ import img5c3 from "./../../img/05 - Rotulaciones/03.jpg";
 
 import img5c5 from "./../../img/05 - Rotulaciones/05.jpg";
 
-import img5c7 from "./../../img/05 - Rotulaciones/07.jpg";
+import img5c7 from "../../img/05 - Rotulaciones/07.jpg";
 import img5c8 from "./../../img/05 - Rotulaciones/08.jpg";
 
 const Carrusel5 = () => {
